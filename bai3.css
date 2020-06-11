@@ -1,0 +1,110 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+*{
+
+}
+body{
+    display: block;
+    background-color: #120A2A;
+    width: 100%;
+    height: auto;
+}
+.body-list :first-child {
+    margin-right: 15px;
+    
+}
+.body-list2 :first-child{
+    margin-right: 15px;
+    
+
+}
+
+
+.header{
+    display: flex;
+    height: 30px;
+    
+    
+}
+.header-lis{
+    display: flex;
+    margin-left: 30px;
+    font-size: 25px;   
+}
+.header-lis li a{
+    text-decoration: none;
+    color:#fff;
+}
+
+.header h1{
+    color: #fff;
+    font-size: 30px;
+    
+}
+.body-list{
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+.body-list2{
+    display: flex;
+
+}
+.body-list-header{
+    display: block;
+    text-decoration: none;
+    color: #fff;
+    font-weight: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.body-list-p{
+    display: block;
+    text-decoration: none;
+    color: #fff;
+    font-weight: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}

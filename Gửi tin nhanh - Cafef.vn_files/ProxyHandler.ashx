@@ -1,0 +1,1 @@
+CafeF_StockSymbol.OnLoaded(({"Symbols":[{"Symbol":"HSX","Datas":["886.22","+2.32","+0.26","5,179.7",""]},{"Symbol":"HNX","Datas":["118.08","+0.66","+0.56","721.1",""]}],"ListNews":[],"ListDoanhNghiep":[],"HeaderBox":""}), "StockSymbolSlide");
